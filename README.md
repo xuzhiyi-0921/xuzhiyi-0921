@@ -1,16 +1,103 @@
-## Hi there 👋
+# Hi, I'm ZhiYi 👋
 
-<!--
-**xuzhiyi-0921/xuzhiyi-0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 About Me
 
-Here are some ideas to get you started:
+I am a Robotics Engineering student at Zhejiang University of Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current interests focus on:
+
+- Computer Vision
+- Robot Perception
+- Artificial Intelligence
+- Embodied Intelligence
+
+
+I am currently learning and building projects with:
+
+- Python
+- C++
+- OpenCV
+- PyTorch
+- YOLO
+- ROS2
+
+
+---
+
+## 🚀 Projects
+
+
+### 🔍 Computer Vision
+
+**OpenCV-based Object Detection and Tracking**
+
+Exploring traditional computer vision methods for robot perception.
+
+Implemented:
+
+- HSV color segmentation
+- Morphological operations
+- Contour detection
+- Object center calculation
+- Simple object tracking
+
+
+### 🦾 Robotics
+
+**ROS2 Robotics Learning**
+
+Learning robot software systems with ROS2:
+
+- ROS2 Humble
+- Robot communication
+- Navigation2
+- Robot perception
+
+
+### 🧠 Artificial Intelligence
+
+Exploring:
+
+- Deep Learning
+- Object Detection
+- Large Language Model Applications
+
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+
+Python · C++
+
+
+### AI & Vision
+
+PyTorch  
+OpenCV  
+YOLO
+
+
+### Robotics
+
+ROS2  
+Linux
+
+
+---
+
+## 📚 Currently Learning
+
+- Deep Learning
+- Robot Vision
+- Autonomous Robots
+- Embodied AI
+
+
+---
+
+## 📫 Contact
+
+GitHub:
+https://github.com/xuzhiyi-0921
